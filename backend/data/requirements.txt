@@ -1,0 +1,9 @@
+
+groq
+pymupdf
+python-dotenv
+pandas
+flask
+flask-sqlalchemy
+sentence-transformers
+faiss-cpu
